@@ -3,22 +3,21 @@
   "displayName": "Power Mode",
   "description": "Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.",
   "version": "3.0.2",
-  "publisher": "whyare",
+  "publisher": "YR",
   "icon": "images/icon-large.png",
   "author": {
-    "name": "Cody Hoover",
-    "email": "vscode@codyhoover.com",
-    "url": "https://github.com/hoovercj"
+    "name": "YR",
+    "url": "https://github.com/WhyAre"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hoovercj/vscode-power-mode/issues"
+    "url": "https://github.com/WhyAre/vscode-power-mode/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hoovercj/vscode-power-mode.git"
+    "url": "https://github.com/WhyAre/vscode-power-mode.git"
   },
-  "homepage": "https://github.com/hoovercj/vscode-power-mode",
+  "homepage": "https://github.com/WhyAre/vscode-power-mode",
   "engines": {
     "vscode": "^1.22.0"
   },
