@@ -3,7 +3,7 @@
   "displayName": "Power Mode",
   "description": "Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.",
   "version": "3.0.2",
-  "publisher": "hoovercj",
+  "publisher": "whyare",
   "icon": "images/icon-large.png",
   "author": {
     "name": "Cody Hoover",
